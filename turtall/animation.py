@@ -91,7 +91,7 @@ for ball in balls:
     ball.da = random.randint(-5, 5) #random rotation
 
 
-gravity = 0.1 #-9.8 #meters/s^2
+gravity = 0.1
 
 while True:
     wn.update()
