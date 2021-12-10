@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: turtall
+Version: 0.1
+Summary: A bouncing object simulation with an interactive user
+Home-page: UNKNOWN
+Author: Enyo Adoboe
+Author-email: enyo.adoboe@yale.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3

@@ -1,0 +1,7 @@
+setup.py
+turtall/__init__.py
+turtall/animation.py
+turtall.egg-info/PKG-INFO
+turtall.egg-info/SOURCES.txt
+turtall.egg-info/dependency_links.txt
+turtall.egg-info/top_level.txt
