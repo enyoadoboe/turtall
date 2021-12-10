@@ -15,3 +15,5 @@ Once you hit enter, the simulation will start and should look something like thi
 <img width="722" alt="Screen Shot 2021-12-10 at 4 17 14 PM" src="https://user-images.githubusercontent.com/89874758/145642850-0c125518-676f-4ce4-a922-17a912984b52.png">
 
 The turtle in the center is an interactive player and can be moved by clicking on it with your mouse and dragging it around the screen or by using your arrow keys to move it. The turtle also interacts with the bouncing objects and can hit them to elsewhere on the screen or repel them. 
+
+In order to put in new values for number and speed of objects, close the simulation window and rerun the "import turtall" line.
