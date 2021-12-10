@@ -49,6 +49,14 @@ def go_down():
 
 #function for turtle and object collision
 def collide(t1, t2):
+    '''
+    Parameters
+    ----------
+    t1: turtle
+        first turtle object
+    t2: turtle
+        second turtle object
+    '''
     d = math.sqrt(math.pow(t1.xcor() - t2[i].xcor(), 2) + math.pow(t1.ycor() - t2[j].ycor(), 2))
     if d < 20:
         return True
